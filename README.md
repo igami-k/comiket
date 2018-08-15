@@ -1,0 +1,2 @@
+# comiket
+comiket resource
